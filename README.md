@@ -1,0 +1,1 @@
+Split into 3 parts this assignment is made for Circle Phones; an online retail business specializing in cell phones and tablets. The owner initially hired us to create an application to calculate Circle Phones’ profits. This program was made to calculate their profits.
